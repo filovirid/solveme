@@ -25,4 +25,4 @@
 
 ### Answer:
 
-You can find the answer in [crackme_01.pdf](https://github.com/filovirid/crackmes/blob/master/crackme01/crackme_01.pdf)
+You can find the answer in [crackme_01.pdf](https://github.com/filovirid/solveme/blob/master/crackme/crackme01/crackme_01.pdf)
