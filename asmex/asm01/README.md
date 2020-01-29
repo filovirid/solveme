@@ -16,6 +16,7 @@
 
 1. What does this code do?
 2. Which function(s) in C language can do the same job?
+3. What are the values and their types in line 1 and 8 of the code?
 3. What are the input parameters?
 4. Draw the stack order.
 
