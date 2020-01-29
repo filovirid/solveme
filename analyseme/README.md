@@ -9,6 +9,6 @@ Analyseme tutorials and exercises.
 
 ### Challenges
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[analyseme#01 (*PCAP*)](https://github.com/filovirid/solveme/analyseme/tree/master/analyseme01)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[analyseme#01 (*PCAP*)](https://github.com/filovirid/solveme/tree/master/analyseme/analyseme01)
 
 
