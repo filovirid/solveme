@@ -27,7 +27,9 @@ Must read documents.
 Anti-debug and anti-analysis techniques and challenges.
 
 
-### [License](https://github.com/filovirid/solveme/blob/master/LICENSE): MIT
+### [License](https://github.com/filovirid/solveme/blob/master/LICENSE)
+
+MIT license
 
 ### [Readme.md](https://github.com/filovirid/solveme/blob/master/README.md)
 
