@@ -24,4 +24,4 @@
 
 ### Answer:
 
-You can find the answer [crackme_02.pdf](https://github.com/filovirid/crackmes/blob/master/crackme02/crackme_02.pdf)
+You can find the answer [crackme_02.pdf](https://github.com/filovirid/solveme/blob/master/crackme/crackme02/crackme_02.pdf)
