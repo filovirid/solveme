@@ -27,4 +27,4 @@
 
 ### Answer:
 
-Answer will be updated in one week.
+You can find the answer to this question in [asm_01.pdf](https://github.com/filovirid/solveme/blob/master/asmex/asm01/asm_01.pdf).
