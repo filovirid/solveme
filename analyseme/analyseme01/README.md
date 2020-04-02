@@ -33,4 +33,4 @@
 
 ### Answer:
 
-You can find the answer in [analyseme_01.pdf](https://github.com/filovirid/crackmes/blob/master/analyseme01/analyseme_01.pdf).
+You can find the answer in [analyseme_01.pdf](https://github.com/filovirid/solveme/blob/master/analyseme/analyseme01/analyseme_01.pdf).
